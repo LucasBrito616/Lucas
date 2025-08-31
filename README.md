@@ -4,4 +4,7 @@ Olá, meu nome é Lucas. Sou estudante de Análise e Desenvolvimento de Sistemas
  Estudante de ADS  
  - Aprendendo e reforçando lógica de programação  
  - Já tive contato com C, Java e PHP
- - Sempre buscando evoluir e crescer na área da TI  
+ - Sempre buscando evoluir e crescer na área da TI
+
+ - Linkedin: www.linkedin.com/in/lucas-brito-73b4232b4
+ - Email: Lucas.brito123987@gmail.com
